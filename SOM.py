@@ -1,3 +1,8 @@
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/Anna-Peng/SOM-exercise/blob/master/SOM.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 # -*- coding: utf-8 -*-
 
 import numpy as np # This package deals with matrix and array
